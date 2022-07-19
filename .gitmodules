@@ -1,0 +1,3 @@
+[submodule "Packages/com.produktivkeller.simple-code-patterns"]
+	path = Packages/com.produktivkeller.simple-code-patterns
+	url = git@github.com:PRODUKTIVKELLER/simple-code-patterns.git
